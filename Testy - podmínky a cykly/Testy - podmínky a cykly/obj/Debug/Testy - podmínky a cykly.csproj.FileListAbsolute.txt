@@ -1,0 +1,8 @@
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\obj\Debug\Testy - podmínky a cykly.csproj.AssemblyReference.cache
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\obj\Debug\Testy - podmínky a cykly.csproj.SuggestedBindingRedirects.cache
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\obj\Debug\Testy - podmínky a cykly.csproj.CoreCompileInputs.cache
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\bin\Debug\Testy - podmínky a cykly.exe.config
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\bin\Debug\Testy - podmínky a cykly.exe
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\bin\Debug\Testy - podmínky a cykly.pdb
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\obj\Debug\Testy - podmínky a cykly.exe
+C:\Users\NTB\source\repos\Testy - podmínky a cykly\Testy - podmínky a cykly\obj\Debug\Testy - podmínky a cykly.pdb
